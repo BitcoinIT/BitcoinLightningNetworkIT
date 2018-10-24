@@ -1,6 +1,6 @@
 ### Gruppo Telegram “Bitcoin Lightning Network IT” 
 #### Per entrare nel gruppo
-https://telegram.me/joinchat/A4TclT5zDFZQv5xxuCoCkw
+https://t.me/joinchat/A4TclT5zDFZpnGUTHFHnpg
 #### Amministratori/moderatori del gruppo
 (in ordine strettamente alfabetico)
   * Luigi Angotzi @Luigi_Ang
